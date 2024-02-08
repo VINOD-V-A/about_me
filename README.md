@@ -1,34 +1,57 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Vinod V Amari ! 👋
 
-I'm a Python Full Stack Developer passionate about creating innovative applications using Python and various frameworks and tools. With expertise in Python, Kivy, Kivy MD, Django, and Anvil, I enjoy building robust and user-friendly software solutions.
+Welcome to my GitHub profile! I'm a passionate Python Full Stack Developer with a diverse skill set and experience in building robust applications. I specialize in both backend and frontend technologies, ensuring seamless user experiences across various platforms. Let's dive into what I bring to the table:
 
 ## Skills
 
-- **Programming Languages:** Python
-- **Frameworks:** Django
-- **GUI Development:** Kivy, Kivy MD
-- **Tools & IDEs:** PyCharm, Android Studio
+### Programming Languages:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
+### Frameworks/Libraries:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+### Web Technologies:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+### Databases:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+### Tools/IDEs:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Here are a few highlighted projects I've worked on:
 
-1. [Project Name](link): Brief description.
-   ![Project Image](project_image.png)
+1. **Project Name**: Brief description.
+   ![Project Image](link_to_image)
+   - [GitHub Repo](link_to_repo)
+   - [Live Demo](link_to_demo)
 
-2. [Project Name](link): Brief description.
-   ![Project Image](project_image.png)
+2. **Project Name**: Brief description.
+   ![Project Image](link_to_image)
+   - [GitHub Repo](link_to_repo)
+   - [Live Demo](link_to_demo)
 
-3. [Project Name](link): Brief description.
-   ![Project Image](project_image.png)
+3. **Project Name**: Brief description.
+   ![Project Image](link_to_image)
+   - [GitHub Repo](link_to_repo)
+   - [Live Demo](link_to_demo)
 
-## Contact Me
+## Get In Touch
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat!
+Feel free to connect with me via:
+<p> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+Let's collaborate on exciting projects or discuss anything related to software development!
 
-- [![LinkedIn](linkedin_logo.png)](Your LinkedIn Profile Link)
-- [![Email](email_logo.png)](mailto:your.email@example.com)
-
-Let's connect and create something amazing together!
