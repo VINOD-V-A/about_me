@@ -52,6 +52,6 @@ Here are a few highlighted projects I've worked on:
 ## Get In Touch
 
 Feel free to connect with me via:
-<p> <a href="https://www.linkedin.com/in/vinod-v-amari/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p> <a href="https://www.linkedin.com/in/vinod-v-amari/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 Let's collaborate on exciting projects or discuss anything related to software development!
 
